@@ -1,6 +1,6 @@
 [![MasterHead](https://thumbs.dreamstime.com/b/horizontal-banner-hands-typing-laptop-keyboard-various-electronic-devices-symbols-programming-software-horizontal-125917922.jpg)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, I'm Tony Veliz</h1>
+<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, I'm Tony Veliz <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
 <h3 align="center">A passionate frontend developer and UI designer from Venezuela</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
 
