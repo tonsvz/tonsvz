@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Framer-motion Projects**
+- 🔭 I’m currently working on **Framer-motion, MongoDB Projects**
 
 - 🌱 I’m currently learning **GSAP, Next JS, Node.js**
 
 - 👯 I’m looking to collaborate on **Front End Projects**
 
-- 💬 Ask me about **react,framer-motion,react-router,animate.js,**
+- 💬 Ask me about **react,framer-motion,react-router,animate.js,mongodb**
 
 - 📫 How to reach me **tonsvz@gmail.com**
 
